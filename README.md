@@ -2,9 +2,7 @@
 
 18020015
 
-RSA
-ElGamal
-Elliptic Curve ElGamal
+RSA, ElGamal, Elliptic Curve ElGamal
 
 jdk-13.0.1
 
